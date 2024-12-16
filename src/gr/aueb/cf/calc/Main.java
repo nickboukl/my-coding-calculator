@@ -18,5 +18,9 @@ public class Main {
         return a-b;
     }
 
+    public static int div(int a, intb) {
+        return a/b;
+    }
+
 
 }
